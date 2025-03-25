@@ -1,0 +1,14 @@
+Journal
+25/3/2025
+Just created the project and addedthe document specifications on GitHub.
+
+26/3/2026
+Cloned the project on my local directory.
+Created the Journal file. 
+Need to use this data source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+To do
+- Get data source
+- Analyse data source
+- Know how to identify outliers and trends 
+
