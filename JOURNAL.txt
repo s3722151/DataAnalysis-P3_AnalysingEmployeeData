@@ -2,10 +2,15 @@ Journal
 25/3/2025
 Just created the project and addedthe document specifications on GitHub.
 
-26/3/2026
+26/3/2025
 Cloned the project on my local directory.
 Created the Journal file. 
 Need to use this data source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
+27/3/2025
+Downloaded dataset and re-named as "employeeDataset". 
+Created Jupytar notebook to look at data. 
+
 
 To do
 - Get data source
