@@ -11,9 +11,48 @@ Need to use this data source: https://www.kaggle.com/datasets/pavansubhasht/ibm-
 Downloaded dataset and re-named as "employeeDataset". 
 Created Jupytar notebook to look at data. 
 
+28/3/2025
+Looked at data. 
+There is 35 columns.
+Did some diggin into the data.  
+1. Age: 18 - 60.
+2. Attrition: Yes, No.
+3. BusinessTravel: Non-Travel, Travel Frequently, Travel-Rarely
+4. DailyRate: 102 - 1409 
+5. Departure: Human Resources,Research & Development, Sales 
+6. DistanceFromHome
+7. Education 
+8. EducationField
+9. EmployeeCount
+10.EmployeeNumber
+11.EnvironmentSatisfaction 
+12.Gender  
+13.HourlyRate
+14.JobInvolvement
+15. JobLevel
+16. JobRole
+17. JobSatisfaction
+18. MaritalStatus
+19. MonthlyIncome
+20. MonthlyRate
+21. NumCompaniesWorked
+22. Over18
+23. OverTime
+24. PercentSalaryHike
+25. PerformanceRating
+26. RelationshipSatisfaction
+27. StandardHours
+28. StockOptionLevel
+29. TotalWorkingYears
+30. TrainingTimesLastYear
+31. WorkLifeBalance
+32. YearsAtCompany
+33. YearsInCurrentRole
+34. YearsSinceLastPromotion
+35. YearsWithCurrManager 
+
 
 To do
-- Get data source
 - Analyse data source
 - Know how to identify outliers and trends 
 
